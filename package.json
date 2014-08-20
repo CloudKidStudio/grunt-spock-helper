@@ -1,8 +1,8 @@
 {
-  "name": "grunt-user-tasks",
-  "description": "List available user tasks",
-  "version": "0.0.2",  
-  "main": "tasks/_usertasks.js",
+  "name": "grunt-spock-helper",
+  "description": "Assistant plugin for Spock",
+  "version": "0.0.1",  
+  "main": "tasks/_spock_usertasks.js",
   "author": {
     "name": "Matt Karl",
     "email": "matt@cloudkid.com"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CloudKidStudio/grunt-user-tasks"
+    "url": "https://github.com/CloudKidStudio/grunt-spock-helper"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -29,7 +29,7 @@
   ],
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/CloudKidStudio/grunt-user-tasks/issues"
+    "url": "https://github.com/CloudKidStudio/grunt-spock-helper/issues"
   },
-  "homepage": "https://github.com/CloudKidStudio/grunt-user-tasks"
+  "homepage": "https://github.com/CloudKidStudio/grunt-spock-helper"
 }

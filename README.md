@@ -1,15 +1,17 @@
-# Grunt User Tasks
+# Grunt Spock Helper
 
-Grunt plugin for getting all the local user tasks as a JSON object.
+Grunt plugin for assisting the GUI in Spock.
 
 ## Installation
 
+Just including in your project if you're going to be using with Spock.
+
 ```shell
-npm install grunt-user-tasks
+npm install grunt-spock-helper
 ```
 
 ## Running
 
 ```shell
-grunt _usertasks
+grunt _spock_usertasks
 ```
