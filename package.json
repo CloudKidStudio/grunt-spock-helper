@@ -1,7 +1,7 @@
 {
   "name": "grunt-user-tasks",
   "description": "List available user tasks",
-  "version": "0.0.1",  
+  "version": "0.0.2",  
   "main": "tasks/_usertasks.js",
   "author": {
     "name": "Matt Karl",
