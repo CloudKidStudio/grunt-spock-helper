@@ -1,7 +1,7 @@
 {
   "name": "grunt-spock-helper",
   "description": "Assistant plugin for Spock",
-  "version": "0.0.1",  
+  "version": "0.0.2",  
   "main": "tasks/_spock_usertasks.js",
   "author": {
     "name": "Matt Karl",
