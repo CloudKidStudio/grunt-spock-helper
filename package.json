@@ -1,7 +1,7 @@
 {
   "name": "grunt-springroll-helper",
   "description": "Grunt plugin to help springroll studio",
-  "version": "0.1.0",  
+  "version": "0.1.1",  
   "main": "tasks/_springroll_usertasks.js",
   "author": {
     "name": "Matt Karl",
