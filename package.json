@@ -1,8 +1,8 @@
 {
-  "name": "grunt-spock-helper",
-  "description": "Assistant plugin for Spock",
-  "version": "0.0.2",  
-  "main": "tasks/_spock_usertasks.js",
+  "name": "grunt-springroll-helper",
+  "description": "Grunt plugin to help springroll studio",
+  "version": "0.1.0",  
+  "main": "tasks/_springroll_usertasks.js",
   "author": {
     "name": "Matt Karl",
     "email": "matt@cloudkid.com"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CloudKidStudio/grunt-spock-helper"
+    "url": "https://github.com/SpringRoll/grunt-springroll-helper"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -29,7 +29,7 @@
   ],
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/CloudKidStudio/grunt-spock-helper/issues"
+    "url": "https://github.com/SpringRoll/grunt-springroll-helper/issues"
   },
-  "homepage": "https://github.com/CloudKidStudio/grunt-spock-helper"
+  "homepage": "https://github.com/SpringRoll/grunt-springroll-helper"
 }
