@@ -1,17 +1,17 @@
-# Grunt Spock Helper
+# Grunt SpringRoll Helper
 
-Grunt plugin for assisting the GUI in Spock.
+Grunt plugin for assisting the GUI in SpringRollStudio.
 
 ## Installation
 
-Just including in your project if you're going to be using with Spock.
+Just including in your project if you're going to be using with SpringRollStudio.
 
 ```shell
-npm install grunt-spock-helper
+npm install grunt-springroll-helper
 ```
 
 ## Running
 
 ```shell
-grunt _spock_usertasks
+grunt _springroll_usertasks
 ```
