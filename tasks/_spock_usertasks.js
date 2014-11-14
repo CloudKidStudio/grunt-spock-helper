@@ -4,7 +4,7 @@ module.exports = function(grunt)
 {
 	var _ = require('lodash');
 
-	grunt.registerTask('_spock_usertasks', function(){
+	grunt.registerTask('_springroll_usertasks', function(){
 		var allTasks = [],
 			userTasks = _.filter(grunt.task._tasks, function(task){
 				// Grab only the local user tasks
