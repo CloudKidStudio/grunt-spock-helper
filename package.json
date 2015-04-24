@@ -1,7 +1,7 @@
 {
   "name": "grunt-springroll-helper",
   "description": "Grunt plugin to help springroll studio",
-  "version": "0.1.1",  
+  "version": "0.1.2",  
   "main": "tasks/_springroll_usertasks.js",
   "author": {
     "name": "Matt Karl",
@@ -16,7 +16,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~3.7.0"
   },
   "peerDependencies": {
     "grunt": "~0.4.4"

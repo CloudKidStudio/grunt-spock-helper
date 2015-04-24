@@ -7,8 +7,11 @@ module.exports = function(grunt)
 	grunt.registerTask('_springroll_usertasks', function(){
 		var allTasks = [],
 			userTasks = _.filter(grunt.task._tasks, function(task){
-				// Grab only the local user tasks
-				return !task.multi && !/local Npm module/.test(task.meta.info);
+				// Grab only the local user tasks and ignore
+				// any task with an underscore
+				return !task.multi && 
+					!/local Npm module/.test(task.meta.info) && 
+					!/^_/.test(task.name);
 			});
 			
 		// Format the tasks into an dictionary
